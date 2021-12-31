@@ -27,7 +27,7 @@ $ git push
 定期使用源项目仓库内容同步更新自己仓库的内容。
 
 ```bash
-$ git remote add upstream https://github.com/lingcoder/OnJava8
+$ git remote add upstream https://github.com/999V/OnJava8
 
 $ git fetch upstream
 
