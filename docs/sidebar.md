@@ -1,9 +1,3 @@
-
-
-### [译者的话](README.md)
-
-### [封面](book/00-On-Java-8.md)
-
 ### [前言](book/00-Preface.md)
 
 ### [简介](book/00-Introduction.md)
